@@ -38,10 +38,6 @@ What background would you like to use? on_yellow
 
 
 The program would then display the following ASCII art:
-![image](https://user-images.githubusercontent.com/109831705/220365346-74e42b3b-a397-465c-8631-91a350038b42.png)
 
- _   _      _ _
-| | | | ___| | | ___
-| |_| |/ _ \ | |/ _ \
-|  _  |  __/ | | (_) |
-|_| |_|\___|_|_|\___/
+
+![image](https://user-images.githubusercontent.com/109831705/220365346-74e42b3b-a397-465c-8631-91a350038b42.png)
